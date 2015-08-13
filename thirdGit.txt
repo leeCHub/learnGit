@@ -1,1 +1,2 @@
 What's up?
+add a new line to thirdGit.txt 
