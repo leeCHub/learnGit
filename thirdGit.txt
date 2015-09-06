@@ -1,5 +1,9 @@
 What's up?
 add a new line to thirdGit.txt 
 
+<<<<<<< HEAD
 
 add a new line in master-branch
+=======
+add a new line to this file on branch3 01
+>>>>>>> branch3
